@@ -1,0 +1,6 @@
+student_id,name,email,age,province,signup_date,income
+1,Aryan Sharma,aryan@gmail.com,23,AB,2025-10-01,42000
+2,Nidhi Sharma,nidhi@gmail.com,,AB,2025-10-05,38000
+2,Nidhi Sharma,nidhi@gmail.com,22,AB,2025-10-05,38000
+4,John Doe,john@bademail,17,BC,2027-01-01,900000
+5,Jane Smith,jane.smith@email.com,200,ON,2025-09-12,-10

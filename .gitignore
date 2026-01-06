@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+data/processed/
+reports/issues.csv
+reports/validation_report.html
